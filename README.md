@@ -1,7 +1,12 @@
 ### 
 
+<!--
+**nanjeshgowda/nanjeshgowda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
+
 Hey there! I'm Nanjesh.
-•	👨🏻‍💻 About Me
+•	👨🏻‍💻 About Me.
 •	🤔   Exploring new technologies and developing software solutions and quick hacks.
 •	🎓   MS in IS from Cal State LA, USA | BE in CS from VTU, India.
 •	💼   Working as a Big Data Engineer.
