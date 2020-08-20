@@ -1,8 +1,5 @@
 ### 
 
-<!--
-**nanjeshgowda/nanjeshgowda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 
 
 Hey there! I'm Nanjesh.
@@ -26,12 +23,15 @@ Hey there! I'm Nanjesh.
 •	⚽   Soccer
 •	📖   Novels
 
-
-
-
-
-
-
 <!--
 **nanjeshgowda/nanjeshgowda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+###
+
+
+
+
+
+
+
 
