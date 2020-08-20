@@ -19,16 +19,10 @@
 - 🔧 &nbsp; Git | Microsoft Office Tools.
 - 🖥 &nbsp; Photoshop.
 
-💻   Python | Java | C++ | R (Statistics) | MATLAB
-🌐   HTML | CSS | JavaScript | Bootstrap | Node.js | ReactJS
-🛢   MySQL | MongoDB
-🔧   Git | Markdown | Selenium | Tidyverse
-🖥   Illustrator| Photoshop | InDesign
+
 
 <h3>🎨 Hobbies </h3>
-- 🎮 &nbsp; Call of Duty.
-- ⚽ &nbsp; Soccer.
-- 📖 &nbsp; Novels.
+- 🎮 &nbsp; Call of Duty | ⚽ &nbsp; Soccer | 📖 &nbsp; Novels.
 
 </br>
 
