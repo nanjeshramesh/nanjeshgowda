@@ -21,12 +21,16 @@
 - 🖥 &nbsp; Photoshop.
 
 <h3> -🎨 Hobbies </h3>
+
 - 🎮 &nbsp; Call of Duty.
 - ⚽ &nbsp; Soccer.
 - 📖 &nbsp; Novels.
 
 
-</br>
+
+
+
+
 
 
 
