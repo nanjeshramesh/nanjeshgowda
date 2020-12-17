@@ -24,7 +24,7 @@
 
 - 🎮 &nbsp; Call of Duty.
 - ⚽ &nbsp; Soccer.
-- 📖 &nbsp; Novels...
+- 📖 &nbsp; Novels.
 
 
 
