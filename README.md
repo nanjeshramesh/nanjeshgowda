@@ -18,7 +18,6 @@
 - 🛢 &nbsp; MySQL | MongoDB | Cassandra.
 - 📈 &nbsp; Tableau | PowerBI | QlikView | Google Analytics.
 - 🔧 &nbsp; Git | Microsoft Office Tools.
-- 🖥 &nbsp; Photoshop.
 
 <h3> -🎨 Hobbies </h3>
 
