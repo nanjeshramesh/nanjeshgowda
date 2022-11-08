@@ -2,7 +2,7 @@
 
 
 
-<h2>Hey there! I'm Nanjesh :) </h2>
+<h2>Hey there! I'm Nanjesh</h2>
 <h3> -👨🏻‍💻 About Me. </h3>
 
 - 💼 &nbsp; Working as a Big Data Engineer at Amazon Web Services.
