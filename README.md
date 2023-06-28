@@ -8,7 +8,7 @@
 - 💼 &nbsp; Working as a Big Data Engineer at Amazon Web Services.
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; MS in IS from Cal State LA, USA | BE in CS from VTU, India.
-- 🌱 &nbsp; Learning more about Big Data, Cloud Architecture and Systems Design.
+- 🌱 &nbsp; Learning more about Big Data, Cloud Computing and AWS.
 
 
 <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=nanjeshramesh&show_icons=true&locale=en" alt="nanjeshramesh" /></p>
